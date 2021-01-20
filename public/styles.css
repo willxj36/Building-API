@@ -1,0 +1,10 @@
+body {
+    background-color: lightgreen;
+}
+
+.x {
+    color: red;
+    font-size: 40px;
+    cursor: pointer;
+    z-index: 2;
+}
